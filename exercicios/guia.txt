@@ -1,4 +1,4 @@
-exe001 - Códio básico
+exe001 - Códigos básico
 
 exe002 - Parágrafos e quebras de linhas e símbolos especiais e emoji
 
