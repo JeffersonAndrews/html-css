@@ -1,0 +1,26 @@
+exe001 - Códio básico
+
+exe002 - Parágrafos e quebras de linhas e símbolos especiais e emoji
+
+exe003 - Testando cargas de imagens, carregar imagens dentro da mesma pasta, carregar imagens
+dentro de pasta e carregar imagens externas.
+
+exe004 - adicionar o favicon (logo do site)
+
+exe005 - N/A
+
+exe006 - Regras de títulos, h1,h2,h3...
+exe007 - inserindo endereço
+
+exe008 - Principais formatações - negrito - intálico - texto marcado - 
+texto grande e pequeno - texto deletado - texto inserido - texto sobrescrito - 
+texto subscrito 
+
+exe009 - Listas - ordenadas - não ordenadas - mistas e lista de definições
+
+exe010 - Usando links externos - Usando links internos - links para download
+
+exe011 - Imagens dinâmica e reprodução áudio
+
+exe012 - inserindo vídeos hospedados localmente - inserindo vídeos do YouTube
+
